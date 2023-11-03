@@ -1,4 +1,4 @@
-// custom js
+// custom.js
 import AOS from "aos";
 
 /* eslint-disable */
